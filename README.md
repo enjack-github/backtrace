@@ -9,5 +9,5 @@
 ## 使用
 终端下运行
 ```shell
-curl https://raw.githubusercontent.com/zhanghanyun/backtrace/main/install.sh -sSf | sh
+curl https://raw.githubusercontent.com/enjack-github/backtrace/main/install.sh -sSf | sh
 ```
